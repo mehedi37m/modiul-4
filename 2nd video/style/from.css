@@ -1,0 +1,19 @@
+header > nav > ul > li{
+    display: inline;
+    margin-right: 60px;
+   
+}
+nav li > a{
+    text-decoration: none;
+   
+}
+ul{
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 60px;
+
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
